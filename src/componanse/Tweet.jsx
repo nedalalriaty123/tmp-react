@@ -1,8 +1,8 @@
 import React from 'react';
 // هنا حنحط امتغيرات للتويت 
-const Tweet = ({username , name ,date ,message })=>{
+const Tweet = ({username,name,date,message })=>{
     return {
-
+        
     }
 }
 

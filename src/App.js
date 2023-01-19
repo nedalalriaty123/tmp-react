@@ -6,15 +6,11 @@ import NamedComponent from './componanse/NamedComponent';
 import UserName from './componanse/Tweet';
 import { useState } from 'react';
 import Counter from './componanse/Counter';
+import TempConverter from './componanse/TempConverter';
 
 function App() {
-
-
   return (
-    <div className='App'>
-      <Counter />
-    </div>
-
+    <TempConverter />
   );
 }
 
